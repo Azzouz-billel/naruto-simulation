@@ -1,0 +1,8 @@
+*.pt
+__pycache__/
+runs/
+best/data/
+*.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
